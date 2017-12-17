@@ -1,0 +1,36 @@
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\ImageManipulator.UI.WinForms.exe.config
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\ImageManipulator.UI.WinForms.exe
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\ImageManipulator.UI.WinForms.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\ImageManipulator.Core.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\AForge.Imaging.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\AForge.Math.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\AForge.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\ImageManipulator.Core.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\AForge.Imaging.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\AForge.Math.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Debug\AForge.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.Form1.resources
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.Properties.Resources.resources
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.csproj.GenerateResource.Cache
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.exe
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\ImageManipulator.UI.WinForms.exe.config
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.exe
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.pdb
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\ImageManipulator.UI.WinForms.exe
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\ImageManipulator.UI.WinForms.pdb
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\FileService.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\ImageManipulator.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\AForge.Imaging.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\AForge.Math.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\AForge.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\FileService.Core.pdb
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\ImageManipulator.Core.pdb
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\AForge.Imaging.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\AForge.Math.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Debug\AForge.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.Main.resources
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.Properties.Resources.resources
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Debug\ImageManipulator.UI.WinForms.csproj.GenerateResource.Cache

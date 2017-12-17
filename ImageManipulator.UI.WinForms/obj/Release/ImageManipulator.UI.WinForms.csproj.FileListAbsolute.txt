@@ -1,0 +1,63 @@
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.csprojResolveAssemblyReference.cache
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.Properties.Resources.resources
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.csproj.GenerateResource.Cache
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.UI.WinForms.exe.config
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.UI.WinForms.exe
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.exe
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.Core.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.Imaging.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.Math.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.Imaging.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.Math.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.xml
+C:\Users\Catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\FileService.Core.dll
+C:\Users\Catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.Main.resources
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.UI.WinForms.exe.config
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.exe
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.UI.WinForms.exe
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\FileService.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\AForge.Imaging.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\AForge.Math.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\AForge.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\AForge.Imaging.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\AForge.Math.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\AForge.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.Main.resources
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.Properties.Resources.resources
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.csproj.GenerateResource.Cache
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.Core.pdb
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.UI.WinForms.exe.config
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.UI.WinForms.exe
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\FileService.Core.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.Core.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\AForge.Imaging.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\AForge.Math.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\AForge.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.Core.pdb
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.Main.resources
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.Properties.Resources.resources
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.csproj.GenerateResource.Cache
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.exe
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\AForge.Imaging.xml
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\AForge.Math.xml
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.WinForms\bin\Release\AForge.xml
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.UI.WinForms.exe.config
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.UI.WinForms.exe
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\FileService.Core.dll
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.Core.dll
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.Imaging.dll
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.Math.dll
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.dll
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\ImageManipulator.Core.pdb
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.Imaging.xml
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.Math.xml
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\bin\Release\AForge.xml
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.csprojResolveAssemblyReference.cache
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.Main.resources
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.Properties.Resources.resources
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.csproj.GenerateResource.Cache
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.UI.WinForms\obj\Release\ImageManipulator.UI.WinForms.exe

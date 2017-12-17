@@ -1,0 +1,22 @@
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\bin\x64\Debug\ImageManipulator.Core.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\bin\x64\Debug\ImageManipulator.Core.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\bin\x64\Debug\AForge.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\bin\x64\Debug\AForge.Imaging.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\bin\x64\Debug\AForge.Math.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\bin\x64\Debug\AForge.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\bin\x64\Debug\AForge.Imaging.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\bin\x64\Debug\AForge.Math.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\obj\x64\Debug\ImageManipulator.Core.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\obj\x64\Debug\ImageManipulator.Core.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.Core\obj\x64\Debug\ImageManipulator.Core.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\x64\Debug\ImageManipulator.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\x64\Debug\ImageManipulator.Core.pdb
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\x64\Debug\AForge.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\x64\Debug\AForge.Imaging.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\x64\Debug\AForge.Math.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\x64\Debug\AForge.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\x64\Debug\AForge.Imaging.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\x64\Debug\AForge.Math.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\obj\x64\Debug\ImageManipulator.Core.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\obj\x64\Debug\ImageManipulator.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\obj\x64\Debug\ImageManipulator.Core.pdb

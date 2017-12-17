@@ -1,0 +1,29 @@
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\Release\ImageManipulator.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\Release\ImageManipulator.Core.pdb
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\Release\AForge.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\Release\AForge.Imaging.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\Release\AForge.Math.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\Release\AForge.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\Release\AForge.Imaging.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\bin\Release\AForge.Math.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\obj\Release\ImageManipulator.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.Core\obj\Release\ImageManipulator.Core.pdb
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\bin\Release\ImageManipulator.Core.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\bin\Release\ImageManipulator.Core.pdb
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\obj\Release\ImageManipulator.Core.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\obj\Release\ImageManipulator.Core.pdb
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\obj\Release\ImageManipulator.Core.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\bin\Release\AForge.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\bin\Release\AForge.Imaging.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\bin\Release\AForge.Math.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\bin\Release\AForge.xml
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\bin\Release\AForge.Imaging.xml
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.Core\bin\Release\AForge.Math.xml
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.Core\bin\Release\ImageManipulator.Core.dll
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.Core\bin\Release\ImageManipulator.Core.pdb
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.Core\bin\Release\AForge.xml
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.Core\bin\Release\AForge.Imaging.xml
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.Core\bin\Release\AForge.Math.xml
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.Core\obj\Release\ImageManipulator.Core.csprojResolveAssemblyReference.cache
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.Core\obj\Release\ImageManipulator.Core.dll
+D:\Cata\PROIECTE\Wenglor Contest\ImageManipulator\ImageManipulator.Core\obj\Release\ImageManipulator.Core.pdb

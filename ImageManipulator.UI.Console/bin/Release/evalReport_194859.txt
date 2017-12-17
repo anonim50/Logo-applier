@@ -1,0 +1,3 @@
+Peak Memory Consumption [KB]: 18984
+CPU Cycle count: 494894444
+Exited normally with code: 0

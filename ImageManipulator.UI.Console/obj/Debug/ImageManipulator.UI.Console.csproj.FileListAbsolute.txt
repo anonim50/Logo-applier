@@ -1,0 +1,14 @@
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\ImageManipulator.UI.Console.exe.config
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\ImageManipulator.UI.Console.exe
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\ImageManipulator.UI.Console.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\ImageManipulator.Core.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\AForge.Imaging.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\AForge.Math.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\AForge.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\ImageManipulator.Core.pdb
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\AForge.Imaging.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\AForge.Math.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Debug\AForge.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\obj\Debug\ImageManipulator.UI.Console.csprojResolveAssemblyReference.cache
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\obj\Debug\ImageManipulator.UI.Console.exe
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\obj\Debug\ImageManipulator.UI.Console.pdb

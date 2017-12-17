@@ -1,0 +1,38 @@
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Release\ImageManipulator.UI.Console.exe.config
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Release\ImageManipulator.UI.Console.exe
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Release\ImageManipulator.Core.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Release\AForge.Imaging.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Release\AForge.Math.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Release\AForge.dll
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Release\AForge.Imaging.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Release\AForge.Math.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Release\AForge.xml
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\obj\Release\ImageManipulator.UI.Console.csprojResolveAssemblyReference.cache
+c:\users\catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\obj\Release\ImageManipulator.UI.Console.exe
+C:\Users\Catalin\documents\visual studio 2015\Projects\ImageManipulator\ImageManipulator.UI.Console\bin\Release\FileService.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\ImageManipulator.UI.Console.exe.config
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\obj\Release\ImageManipulator.UI.Console.exe
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\ImageManipulator.UI.Console.exe
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\FileService.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\ImageManipulator.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\AForge.Imaging.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\AForge.Math.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\AForge.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\AForge.Imaging.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\AForge.Math.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\AForge.xml
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\obj\Release\ImageManipulator.UI.Console.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\ImageManipulator.UI.Console\bin\Release\ImageManipulator.Core.pdb
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\ImageManipulator.UI.Console.exe.config
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\obj\Release\ImageManipulator.UI.Console.exe
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\ImageManipulator.UI.Console.exe
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\FileService.Core.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\ImageManipulator.Core.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\AForge.Imaging.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\AForge.Math.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\AForge.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\ImageManipulator.Core.pdb
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\obj\Release\ImageManipulator.UI.Console.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\AForge.Imaging.xml
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\AForge.Math.xml
+C:\Users\Catalin\Desktop\ImageManipulator - final\ImageManipulator.UI.Console\bin\Release\AForge.xml

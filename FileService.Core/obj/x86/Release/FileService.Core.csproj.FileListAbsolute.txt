@@ -1,0 +1,2 @@
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\FileService.Core\bin\x86\Release\FileService.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\FileService.Core\obj\x86\Release\FileService.Core.dll

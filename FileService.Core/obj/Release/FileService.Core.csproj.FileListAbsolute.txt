@@ -1,0 +1,6 @@
+C:\Users\Catalin\documents\visual studio 2015\Projects\ImageManipulator\FileService.Core\bin\Release\FileService.Core.dll
+C:\Users\Catalin\documents\visual studio 2015\Projects\ImageManipulator\FileService.Core\obj\Release\FileService.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\FileService.Core\bin\Release\FileService.Core.dll
+C:\Users\Catalin\Documents\Visual Studio 2015\Projects\ImageManipulator - Copy\FileService.Core\obj\Release\FileService.Core.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\FileService.Core\bin\Release\FileService.Core.dll
+C:\Users\Catalin\Desktop\ImageManipulator - final\FileService.Core\obj\Release\FileService.Core.dll
